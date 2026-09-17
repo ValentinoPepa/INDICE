@@ -1,4 +1,4 @@
-# INDICE
+# INDICE EJERCICIOS POO
 Ejercitación 2.1
 
 Bloque I: Definición de Clases, Instanciación y Constructores
