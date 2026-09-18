@@ -10,7 +10,8 @@ Bloque I: Definición de Clases, Instanciación y Constructores
 
 Bloque II: Comportamiento, Métodos y Retorno de Valores
 
-- Ejercicio 3: Transición de Estados (Auto)
+[- Ejercicio 3: Transición de Estados (Auto)
+](https://github.com/ValentinoPepa/EJ_2.1.3/blob/main/README.md#ej_213)
 - Ejercicio 4: Firma de Métodos y Retorno de Datos (Calculadora)
 
 Bloque III: Acumuladores de Estado e Iteración Interna
